@@ -1,4 +1,9 @@
 # WebPhoto
+
+修改来自改项目：https://github.com/haganWu/WebPhoto
+
+修改了调用拍照失败的Bug
+
 Android客户端实现H5页面调用本地相册和相机上传图片
 
 
